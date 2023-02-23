@@ -12,7 +12,7 @@ numpy
 requests
 scikit-learn
 scipy
-sklear
+sklearn
 threadpoolctl
 urllib3
 Werkzeug
